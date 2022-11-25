@@ -10,11 +10,13 @@ My vision with "Machli" is to make a simple and efficient chess engine, I am goi
 
 
 
-(the name Machli, if hadn't already guessed, has been taken from stock-"fish". ) <sup>1</sup> 
+(the name Machli<sup>1</sup>, if hadn't already guessed, has been taken from stock-"fish"<sup>2</sup>. )  
 
 
 
 ------
 
 <bold>[1]: </bold>  Machli (मछली) is fish in Hindi
+
+<bold>[2]:</bold> [stockfish](https://github.com/official-stockfish/Stockfish) is a widely used chess engine 
 
