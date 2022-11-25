@@ -12,5 +12,9 @@ My vision with "Machli" is to make a simple and efficient chess engine, I am goi
 
 (the name Machli, if hadn't already guessed, has been taken from stock-"fish". ) <sup>1</sup> 
 
-[^1]: Machli (मछली) is fish in Hindi
+
+
+------
+
+<bold>[1]: </bold>  Machli (मछली) is fish in Hindi
 
